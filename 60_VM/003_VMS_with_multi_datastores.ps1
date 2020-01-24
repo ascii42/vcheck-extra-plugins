@@ -10,7 +10,7 @@ $PluginVersion = 1.0
 $PluginCategory = "vSphere"
 
 #Name of VMS to be ignored
-$BlacklistVM = "*HDB"
+$BlacklistVM = " "
 #Nummer of too Much Datastores [default=2]
 $DatastoreCount = "2"
 # Round Used Space up to n [default=3]
